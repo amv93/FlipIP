@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" href="css/webclient.css">
+
+</head>
+<body>
+	<!-- -------------------------------------- Main Div ------------------------------------------------------------ -->
+	 <div id="mainDiv">
+	 <!-- -------------------------------------- Logo Div ----------------------------------------------------------- -->
+	     	<div id="logoDiv">
+	     		<div id="logo">
+	     				<img src="css/images/logo.png" alt="IPLogo" style="vertical-align:middle;">&nbsp;&nbsp;&nbsp;
+	     				<h2 style="display:inline;vertical-align:middle;height:250%">Flip IP</h2>
+	     		</div>
+	     		<button id="logoutBtn" style="display:none;" onclick="logOut()">Logout</button>	    	
+	    	</div>
+	 <!-- -------------------------------------- Logo Div Ends ------------------------------------------------------ -->    
+	 <!-- -------------------------------------- Form Div ----------------------------------------------------------- -->
+	     	<div id="formDiv" >	    
+	 <!-- -------------------------------------- Login Div ----------------------------------------------------------- --> 
+	            <div id="loginDiv" >  	
+   					    <p><input id="userName" type="text" placeholder="Username" Value=""/></p>						
+						<div id="errorDisplayDiv" ></div>			
+						<p><button id="loginBtn" onclick="validateUser()">Login</button></p>				  
+				</div>	
+	 <!-- -------------------------------------- login Div Ends ------------------------------------------------------ -->
+	 <!-- -------------------------------------- HomePage Div ------------------------------------------------------- -->
+	 			<div id="homePageDiv"  style="display: none;">	 			  
+	 			     <div style="text-align:center;">
+	 			       		<input type="button" id="statusIndicator"  disabled />&nbsp;
+	 			   			<span id="displayUser" style="font-size:1.5em;"></span>
+	 			     </div>
+	 			   	 <div class="topMargin">
+	 		  	   		<table id="userRecords" >
+	 		  	   		  	 <thead>	 		  	   		  
+	 		   	    			 <tr>
+	 		   	    			 	<th> </th>
+	 		    	 				<th> IPAddress </th>
+	 		     					<th> Purpose </th>
+	 		     					<th> In-Use </th>
+	 		     					<th> </th>
+	 		     				 </tr>	
+	 		     			 </thead>	
+	 		     			 <tbody>
+	 		     			 	  <tr>
+	 		     			 	 	 <td></td>
+	 		     			 	  	 <td></td>
+	 		     			 	  	 <td></td>
+	 		     			 	  	 <td></td>
+	 		     			 	  	 <td><input id="deleteBtn" type="image" src="css/images/deleteBtn.png" onclick="deleteRow(this)" /></td>
+	 		     			 	  </tr>
+	 		     			 </tbody> 	     		
+	 		     		</table>
+	 		     	</div>	 		     	
+	 		     	<div class="topMargin" id="assignIPDiv">
+	 		     	    <button id="assignBtn" onclick="assignIP()">Assign IP</button>	
+	 		     	    <input id="purpose" type="text" placeholder="Purpose" Value=""/> 	 		     	    		     		
+	 		     	</div>
+	 		     	<div class="topMargin" id="infoDiv" style="display:none;">
+	 		     	</div>	
+	 		     	<div id="topOfPage" class="topMargin"  style="display:none;margin-left:80%;">
+	 		     		<a href="#logoDiv"  style="color:blue;">Back To Top<img src="css/images/top.png" style="vertical-align:middle;" alt="TOP"></a>
+	 		     	</div>	 		     		 		     		     	
+	 			</div>	 			
+	 <!-- -------------------------------------- HomePage Div Ends -------------------------------------------------- -->	    
+	 		</div>		 		 
+	 <!-- -------------------------------------- Form Div Ends ------------------------------------------------------ -->
+	       		
+	</div>
+	<!-- -------------------------------------- Main Div Ends-------------------------------------------------------- -->
+	<script type="text/javascript" src="js/webclientjs.js"></script>
+</body>
+</html>

@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE RecordList>
+<RecordList>
+	<record>
+		<IP-address>10.133.134.11</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>phones WebRTC   </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.12</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.13</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.14</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC ESXi Management IP</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.15</IP-address>
+		<UsedBy-Name>ssomen</UsedBy-Name>
+		<Purpose>Sumesh  WebRTC Gateway dev setup</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.16</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.17</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC SE secondary</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.18</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.19</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.20</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.21</IP-address>
+		<UsedBy-Name>ppeteshenoy</UsedBy-Name>
+		<Purpose>500v2 UCC Team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.22</IP-address>
+		<UsedBy-Name>svamadevappa</UsedBy-Name>
+		<Purpose>Shiva IP500v2</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.23</IP-address>
+		<UsedBy-Name>ppeteshenoy</UsedBy-Name>
+		<Purpose>500v2 UCC Team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.24</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Testing IPO IPO core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.25</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.26</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Testing IPO IPO core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.27</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.28</IP-address>
+		<UsedBy-Name>vkwari</UsedBy-Name>
+		<Purpose>Vinayak/Rintu Deveelopment IPOffice/Testing IPO</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.29</IP-address>
+		<UsedBy-Name>ppeteshenoy</UsedBy-Name>
+		<Purpose>500v2 UCC Team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.30</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>IPOL IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.31</IP-address>
+		<UsedBy-Name>ppeteshenoy</UsedBy-Name>
+		<Purpose>APP  server UCC Team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.32</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.33</IP-address>
+		<UsedBy-Name>svamadevappa</UsedBy-Name>
+		<Purpose>Shiva/App Server windows machine/UCC</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.34</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>IPO Application Server IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.35</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.36</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.37</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.38</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.39</IP-address>
+		<UsedBy-Name>ppeteshenoy</UsedBy-Name>
+		<Purpose> APP server UCC Team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.40</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.41</IP-address>
+		<UsedBy-Name>gbms</UsedBy-Name>
+		<Purpose>Ganesh IPO dev machine</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.42</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.43</IP-address>
+		<UsedBy-Name>krashmitha</UsedBy-Name>
+		<Purpose>Rashmitha Desktop IPO dev machine</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.44</IP-address>
+		<UsedBy-Name>krashmitha</UsedBy-Name>
+		<Purpose>Rashmitha Simulator Setup</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.45</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.46</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.47</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.48</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.49</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.50</IP-address>
+		<UsedBy-Name>rajkumaradass</UsedBy-Name>
+		<Purpose>Raj Dev Machine</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.51</IP-address>
+		<UsedBy-Name>ssomen</UsedBy-Name>
+		<Purpose>Vinayak/Sumesh Development Machine</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.52</IP-address>
+		<UsedBy-Name>vignaraj</UsedBy-Name>
+		<Purpose>Vinish/Rintu/Vignaraj IP Office/Testing IPO </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.53</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.54</IP-address>
+		<UsedBy-Name>ps10</UsedBy-Name>
+		<Purpose>Sreejith Dev Machine</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.55</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>IPO Appserver  IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.56</IP-address>
+		<UsedBy-Name>ps10</UsedBy-Name>
+		<Purpose>Sreejith IPOffice Simulator</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.57</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.58</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.59</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.60</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.61</IP-address>
+		<UsedBy-Name>ppeteshenoy</UsedBy-Name>
+		<Purpose>IPOL  UCC Team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.62</IP-address>
+		<UsedBy-Name>ppeteshenoy</UsedBy-Name>
+		<Purpose>Resiliency server IP UCC Team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.63</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC App Server</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.64</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC ESXi Management IP</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.65</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC IPOL 9.1.6</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.66</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC IPOCC</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.67</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.68</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.69</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC SE IPOL</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.70</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.71</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.72</IP-address>
+		<UsedBy-Name>pgujjar</UsedBy-Name>
+		<Purpose>WebRTC - Prateek IPOL   </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.73</IP-address>
+		<UsedBy-Name>vignaraj</UsedBy-Name>
+		<Purpose>Vignaraj Dev machine linux</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.74</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.75</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.76</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.77</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.78</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.79</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.80</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.81</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.82</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>Development Machine Baktha</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.83</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.84</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.85</IP-address>
+		<UsedBy-Name>ppeteshenoy</UsedBy-Name>
+		<Purpose>Resiliency server IP UCC Team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.86</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>phones IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.87</IP-address>
+		<UsedBy-Name>gbms</UsedBy-Name>
+		<Purpose>Ganesh/Phones Dev/IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.88</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>E.129 Phone Core Team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.89</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.90</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Phones IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.91</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.92</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.93</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Phones IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.94</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.95</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.96</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.98</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>public Ip of testing IPO IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.99</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>summit IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.100</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>summit IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.101</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC ESXi Management IP</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.102</IP-address>
+		<UsedBy-Name>svamadevappa</UsedBy-Name>
+		<Purpose>SHIVA IPOL</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.103</IP-address>
+		<UsedBy-Name>sree</UsedBy-Name>
+		<Purpose>IPOL  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.104</IP-address>
+		<UsedBy-Name>sree</UsedBy-Name>
+		<Purpose>IPO Simulator  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.105</IP-address>
+		<UsedBy-Name>svamadevappa</UsedBy-Name>
+		<Purpose>Shiva/Server Edition IPOL</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.108</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>IP500L   </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.110</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.112</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.113</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.114</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.115</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.116</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.117</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.118</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.119</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.120</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.121</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.122</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.123</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.124</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.125</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.126</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.127</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.128</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura Setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.129</IP-address>
+		<UsedBy-Name>igarg</UsedBy-Name>
+		<Purpose>Ishu  IPO 500v2 development IPO Core Team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.130</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.133</IP-address>
+		<UsedBy-Name>igarg</UsedBy-Name>
+		<Purpose>Ishu Dev machine IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.134</IP-address>
+		<UsedBy-Name>sribanda</UsedBy-Name>
+		<Purpose>IP500v2 Banda's IPO</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.135</IP-address>
+		<UsedBy-Name>sribanda</UsedBy-Name>
+		<Purpose>Desktop system  Banda</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.136</IP-address>
+		<UsedBy-Name>igarg</UsedBy-Name>
+		<Purpose>Ishu IP500v2 development branch system IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.138</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Core Team IPOffice  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.139</IP-address>
+		<UsedBy-Name>sribanda</UsedBy-Name>
+		<Purpose>IPO Simulator Banda's Simulator</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.140</IP-address>
+		<UsedBy-Name>ssomen</UsedBy-Name>
+		<Purpose>Sumesh IP Office dev setup</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.143</IP-address>
+		<UsedBy-Name>ppeteshenoy</UsedBy-Name>
+		<Purpose>Lync Windows 7</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.144</IP-address>
+		<UsedBy-Name>igarg</UsedBy-Name>
+		<Purpose>Ishu Simulator IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.150</IP-address>
+		<UsedBy-Name>reddys</UsedBy-Name>
+		<Purpose>Sunil IPOffice  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.151</IP-address>
+		<UsedBy-Name>reddys</UsedBy-Name>
+		<Purpose>Sunil IPOffice 2  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.152</IP-address>
+		<UsedBy-Name>reddys</UsedBy-Name>
+		<Purpose>Sunil Desktop System  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.153</IP-address>
+		<UsedBy-Name>reddys</UsedBy-Name>
+		<Purpose>Sunil Simulator setup  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.156</IP-address>
+		<UsedBy-Name>vinishs</UsedBy-Name>
+		<Purpose>Vinish Dev Machine</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.157</IP-address>
+		<UsedBy-Name>vkwari</UsedBy-Name>
+		<Purpose>Vinayak Development Machine</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.160</IP-address>
+		<UsedBy-Name>ssomen</UsedBy-Name>
+		<Purpose>Sumesh EDP setup</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.161</IP-address>
+		<UsedBy-Name>vinishs</UsedBy-Name>
+		<Purpose>Vinish Simualator</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.162</IP-address>
+		<UsedBy-Name>ssomen</UsedBy-Name>
+		<Purpose>Sumesh IP Office dev setup</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.163</IP-address>
+		<UsedBy-Name>igarg</UsedBy-Name>
+		<Purpose>Ishu SBC EMS IP IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.164</IP-address>
+		<UsedBy-Name>igarg</UsedBy-Name>
+		<Purpose>Ishu SBC Public IP IPO Core team</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.170</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.174</IP-address>
+		<UsedBy-Name>swethal</UsedBy-Name>
+		<Purpose>Aura SMGR ESXi  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.176</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC ESXi Management IP</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.177</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC IPOCC</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.178</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC IPOL</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.179</IP-address>
+		<UsedBy-Name>ppeteshenoy</UsedBy-Name>
+		<Purpose>Lync  Windows 10</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.180</IP-address>
+		<UsedBy-Name>ppeteshenoy</UsedBy-Name>
+		<Purpose>Lync  Windows 7</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.181</IP-address>
+		<UsedBy-Name>dts</UsedBy-Name>
+		<Purpose>Dhruva's IPO simulator/BCM  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.182</IP-address>
+		<UsedBy-Name>dts</UsedBy-Name>
+		<Purpose>Dhruva's Dev Machine/BCM  </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.183</IP-address>
+		<UsedBy-Name>dts</UsedBy-Name>
+		<Purpose>Dhruva's IPO simulator/BCM Needed  for virtualphone</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.184</IP-address>
+		<UsedBy-Name>sree</UsedBy-Name>
+		<Purpose>BCM 50 </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.185</IP-address>
+		<UsedBy-Name>sree</UsedBy-Name>
+		<Purpose>BCM 50 </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.186</IP-address>
+		<UsedBy-Name>sree</UsedBy-Name>
+		<Purpose>BCM 50 </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.187</IP-address>
+		<UsedBy-Name>dts</UsedBy-Name>
+		<Purpose>Dhruva's IPO simulator/BCM Needed  for virtualphone</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.188</IP-address>
+		<UsedBy-Name>sree</UsedBy-Name>
+		<Purpose>BCM 450 </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.189</IP-address>
+		<UsedBy-Name>sree</UsedBy-Name>
+		<Purpose>BCM 450 </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.190</IP-address>
+		<UsedBy-Name>sree</UsedBy-Name>
+		<Purpose>BCM 450 </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.191</IP-address>
+		<UsedBy-Name>sree</UsedBy-Name>
+		<Purpose>BCM 450 </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.192</IP-address>
+		<UsedBy-Name>sree</UsedBy-Name>
+		<Purpose>BCM 450 </Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.197</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC IPO500v2 EXP</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.198</IP-address>
+		<UsedBy-Name>bnarayana</UsedBy-Name>
+		<Purpose>WebRTC IPO500v2</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.199</IP-address>
+		<UsedBy-Name>ssomen</UsedBy-Name>
+		<Purpose>Sumesh Remote worker setup</Purpose>
+		<In-Use>Used</In-Use>
+	</record>
+	<record>
+		<IP-address>10.133.134.200</IP-address>
+		<UsedBy-Name>available</UsedBy-Name>
+		<Purpose>   </Purpose>
+		<In-Use>NotUsed</In-Use>
+	</record>
+</RecordList>
